@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-core
+sentence-transformers
+ctransformers
+pandas
+numpy
+scikit-learn
+datasets
+accelerate
+huggingface-hub
